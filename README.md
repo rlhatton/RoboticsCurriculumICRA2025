@@ -30,13 +30,16 @@ We will sort case studies into related sessions, each ending with a discussion t
 #### Academia
 
 Carlotta A. Berry, Rose-Hulman Institute of Technology
+
 Bill Smart, Oregon State University
+
 Paul M. Robinette, University of Massachusetts Lowell
 
 
 #### Industry
 
 Lael Odhner, The AI Institute
+
 David Rollinson, HEBI Robotics
 
 ### Contact information
