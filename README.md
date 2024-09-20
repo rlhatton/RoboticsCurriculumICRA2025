@@ -25,6 +25,20 @@ We invite education researchers and robotics educators at the graduate and under
 
 We will sort case studies into related sessions, each ending with a discussion to summarize lessons learned. The sessions will then combine to create an introduction and contextualize the case studies into a combined proceedings document, ideally to be published.
 
+### Confirmed Participants
+
+#### Academia
+
+Carlotta A. Berry, Rose-Hulman Institute of Technology
+Bill Smart, Oregon State University
+Paul M. Robinette, University of Massachusetts Lowell
+
+
+#### Industry
+
+Lael Odhner, The AI Institute
+David Rollinson, HEBI Robotics
+
 ### Contact information
 - Ross Hatton ross.hatton@oregonstate.edu
 - Shai Revzen shrevzen@umich.edu
