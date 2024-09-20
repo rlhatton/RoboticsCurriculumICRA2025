@@ -1,6 +1,3 @@
-# Robotics Curriculum Workshop ICRA 2025
-### by Ross Hatton & Shai Revzen 
-
 The number of robotics graduate and undergraduate programs has ballooned in recent years, with many top universities even offering a PhD program in robotics. Yet robotics, as a field, is new. It is a syncretic discipline which uses tools and ideas from traditional engineering fields like mechanical engineering, electrical engineering, computer science, statistics, and data science, but also synthesizes a broader scientific knowledge from fields such as psychology, kinesiology, linguistics, ethics, and more.
 
 ## Workshop structure
