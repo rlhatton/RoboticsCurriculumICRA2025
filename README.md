@@ -32,6 +32,7 @@ Bill Smart, Oregon State University
 
 Paul M. Robinette, University of Massachusetts Lowell
 
+Alli Nilles, Western Washington University
 
 #### Industry
 
