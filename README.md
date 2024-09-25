@@ -39,6 +39,8 @@ Lael Odhner, The AI Institute
 
 David Rollinson, HEBI Robotics
 
+Ryan Gariepy, Otto Motors
+
 ### Contact information
 - Ross Hatton ross.hatton@oregonstate.edu
 - Shai Revzen shrevzen@umich.edu
